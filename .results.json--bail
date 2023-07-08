@@ -1,0 +1,88 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 5,
+    "passes": 5,
+    "pending": 0,
+    "failures": 0,
+    "start": "2023-07-08T20:04:59.393Z",
+    "end": "2023-07-08T20:04:59.398Z",
+    "duration": 5
+  },
+  "tests": [
+    {
+      "title": "returns true for 'abba'",
+      "fullTitle": "isPalindrome returns true for 'abba'",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns true for 'racecar'",
+      "fullTitle": "isPalindrome returns true for 'racecar'",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns true for 'a'",
+      "fullTitle": "isPalindrome returns true for 'a'",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns false for 'robot'",
+      "fullTitle": "isPalindrome returns false for 'robot'",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns false for 'ab'",
+      "fullTitle": "isPalindrome returns false for 'ab'",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "returns true for 'abba'",
+      "fullTitle": "isPalindrome returns true for 'abba'",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns true for 'racecar'",
+      "fullTitle": "isPalindrome returns true for 'racecar'",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns true for 'a'",
+      "fullTitle": "isPalindrome returns true for 'a'",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns false for 'robot'",
+      "fullTitle": "isPalindrome returns false for 'robot'",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns false for 'ab'",
+      "fullTitle": "isPalindrome returns false for 'ab'",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
